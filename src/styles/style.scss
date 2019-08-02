@@ -1,0 +1,12 @@
+@import "./base/mixin";
+@import "./base/global";
+@import "./modules/header";
+@import "./modules/body-content";      
+
+ 
+canvas {
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

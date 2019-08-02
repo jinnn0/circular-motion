@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  box-sizing: border-box;
+  font-family: "Chronicle Deck A", "Chronicle Deck B", Georgia; }
+
+canvas {
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0; }
