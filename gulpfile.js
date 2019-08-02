@@ -16,15 +16,8 @@ gulp.task('sass', function(){
     })
 
 
-// gulp.task('scripts', function(){
-//      webpack()
-// })
 
 
-
-
-// watch all Sass files 
-// and run the sass task whenever a Sass file is saved
 gulp.task('watch', function(){
   browserSync.init({
     notify: false,
